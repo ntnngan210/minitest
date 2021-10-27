@@ -1,0 +1,17 @@
+{
+    "name": "ngannguyen/autoload",
+    "autoload": {
+        "psr-4": {
+            "Ngannguyen\\Autoload\\": "src/",
+            "App\\": "app/"
+        }
+
+
+    },
+    "authors": [{
+        "name": "ntnngan210",
+        "email": "92852032+ntnngan210@users.noreply.github.com"
+    }],
+    "require": {}
+
+}
